@@ -1,7 +1,7 @@
 @echo off
 SETLOCAL ENABLEDELAYEDEXPANSION
 echo *****************
-echo Author: @Shravanth.M
+echo Author: @Toshiro
 echo *****************
 echo Removing Patch...
 

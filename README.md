@@ -20,13 +20,13 @@
 - Blocks all banner/video/audio ads within the app
 - Retains friend, vertical video and radio functionality
 - Unlocks the skip function for any track
-- Addtional features unlocked by [SpotX](https://github.com/amd64fox/SpotX#features)
+- Addtional features unlocked by [Spotify Ad blocker](https://github.com/Toshir-96/Spotify-Ad-Blocker)
 
 :warning: This mod is for the [**Desktop Application**](https://www.spotify.com/download/windows/) of Spotify on Windows only and **not the Microsoft Store version**.
 
 ### Installation/Update:
 
-- Just download and run [SpotX](https://raw.githack.com/mrpond/BlockTheSpot/master/SpotXBasic.bat)
+- Just download and run [Spotify Ad blocker](https://github.com/Toshir-96/Spotify-Ad-Blocker)
 
 or
 
@@ -38,7 +38,7 @@ or
 [Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12; iex "& { $((iwr -useb 'https://raw.githubusercontent.com/amd64fox/SpotX/main/Install.ps1').Content) } -confirm_uninstall_ms_spoti -confirm_spoti_recomended_over -podcasts_on -cache_off -block_update_off -exp_standart -hide_col_icon_off -start_spoti"
 ```
 
-- Checkout [SpotX Repo](https://github.com/amd64fox/SpotX) for more options and features.
+- Checkout [Spotify Ad blocker Repo](https://github.com/Toshir-96/Spotify-Ad-Blocker) for more options and features.
 
 #### Manual installation
 
@@ -49,7 +49,7 @@ or
 
 ### Uninstall:
 
-- Just run [uninstall.bat](https://github.com/mrpond/BlockTheSpot/master/Uninstall.bat)
+- Just run [uninstall.bat](https://github.com/Toshir-96/Spotify-Ad-Blocker/Uninstall.bat)
   or
 - Reinstall Spotify
 
@@ -57,10 +57,10 @@ or
 
 - "chrome_elf.dll" gets replaced by the Spotify installer each time it updates, hence why you'll probably need to apply the patch again when it happens
 - [Spicetify](https://github.com/Toshiro-96) users will need to reapply BlockTheSpot after applying a Spicetify themes/patches.
-- If the automatic install/uninstall scripts do not work, open issue at [SpotX](https://github.com/amd64fox/SpotX) or contact [Amd64Fox](https://github.com/amd64fox) or [Nuzair46](https://github.com/Nuzair46).
+- If the automatic install/uninstall scripts do not work, open issue at [SpotX](https://github.com/Toshir-96/Spotify-Ad-Blocker) or contact [Toshiro](https://github.com/Toshir-96).
 - For more support and discussions, join our [Discord server](https://discord.gg/p43cusgUPm).
 
 ### DISCLAIMER
 
-- Autoinstaller is maintaned at [SpotX](https://github.com/amd64fox/SpotX). Any issue related to it should be opened in the said repo. 
+- Autoinstaller is maintaned at [Spotify Ad blocker](https://github.com/Toshir-96/Spotify-Ad-Blocker). Any issue related to it should be opened in the said repo. 
 - Ad blocking is the main concern of this repo. Any other feature provided by SpotX or consequence of using those features will be the sole repsonsiblity of the user and not either BlockTheSpot or SpotX team will be responsible.

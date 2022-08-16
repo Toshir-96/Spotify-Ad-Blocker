@@ -164,7 +164,7 @@ function Set-ScriptLanguageStrings {
         # Define language strings.
         $langStringsEN = [PSCustomObject]@{
             Author          = "Patch author:"
-            Author2         = "@Shravanth.M"
+            Author2         = "@Toshiro"
             Incorrect       = "Oops, an incorrect value,"
             Incorrect2      = "enter again through "
             Download        = "Error downloading"
